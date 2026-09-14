@@ -4,7 +4,6 @@ Proyecto de inventario y ventas en consola con Python.
 
 ---
 
-```markdown
 # 📦 Sistema de Inventario y Ventas en Python
 
 Este proyecto es un sistema de consola escrito en **Python** que permite gestionar un inventario de productos y registrar ventas de manera sencilla.  
@@ -81,16 +80,8 @@ Este sistema busca:
 
 ---
 
-## 🛠️ Mejoras futuras
-
-- Búsqueda de productos por nombre o categoría.
-- Exportar reportes a CSV o PDF.
-- Interfaz gráfica simple con Tkinter o PyQt.
-- Integración con bases de datos (SQLite o MySQL).
-
----
-
 ## 👨‍💻 Autor
 
+```
 Proyecto creado por **José Munive Guerra y Carlos Villalba Santos** como práctica de programación en Python.
 ```
