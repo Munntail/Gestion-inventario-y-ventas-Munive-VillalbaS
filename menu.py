@@ -1,0 +1,10 @@
+def mostrar_menu():
+    print("\n" + "=" * 50)
+    print("        MENÚ DE INVENTARIO")
+    print("=" * 50)
+    print("1. Alta de producto")
+    print("2. Registro de venta")
+    print("3. Generar reporte de inventario")
+    print("4. Generar reporte de ventas")
+    print("5. Salir")
+    print("=" * 50)
