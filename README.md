@@ -1,6 +1,6 @@
 # Gestion-inventario-y-ventas-Munive-VillalbaS
 
-Aquí tienes un ejemplo de **README.md** para tu proyecto de inventario y ventas en consola con Python. Lo redacté en un estilo claro y amigable, como se suele usar en proyectos de hobby o aprendizaje:
+Proyecto de inventario y ventas en consola con Python.
 
 ---
 
